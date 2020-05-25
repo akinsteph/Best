@@ -495,7 +495,7 @@ footer .prefooter, footer .contact-row {
     .bigcard-img, .bigcard-img img {
         border-radius: 8px 8px 0px 0px;
     }
-    .bigcard-img img{
+    .bigcard-img img, .row.no-gutters{
         height: auto !important;
     }
     .pills-tab .nav-item{
@@ -565,4 +565,6 @@ footer .prefooter, footer .contact-row {
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) { 
+
+}
